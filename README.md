@@ -14,7 +14,7 @@
 
 <br>
 
-<h2 align="center"> ＮＥＸＵＳ ＿ ＩＮＦＯ </h2>
+<h2 align="center"> ＰＥＲＦＩＬ ＿ ＤＥ ＿ ＵＳＵＡＲＩＯ </h2>
 
 <p align="center">
   Hola, soy <b>Jonathan Jason</b>. Estudio <b>Ingeniería Mecatrónica</b> en UPIITA.<br>
@@ -29,26 +29,26 @@
 
 <br>
 
-<h2 align="center"> ＣＹＢＥＲ ＿ ＡＲＳＥＮＡＬ </h2>
-
+<h2 align="center"> ＭＯＤＵＬＯＳ ＿ ＡＣＴＩＶＯＳ </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,linux,ubuntu,arduino,raspberrypi,qt,opencv,github,vscode&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,matlab,linux,ubuntu,arch,git,github,vscode,arduino,raspberrypi,aws,latex,opencv,ros&theme=dark&perline=8" />
   </a>
 </p>
 
 <br>
 
-<h2 align="center"> ＴＥＬＥＭＥＴＲＩＡ ＿ ＤＥ ＿ ＤＡＴＯＳ </h2>
+<h2 align="center"> ＲＥＮＤＩＭＩＥＮＴＯ ＿ ＧＬＯＢＡＬ </h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jasonmm24&show_icons=true&bg_color=000000&title_color=00f0ff&text_color=00FF41&icon_color=ff007f&border_color=ff007f&border_radius=0" alt="GitHub Stats" />
+<br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmm24&layout=compact&bg_color=000000&title_color=00f0ff&text_color=00FF41&icon_color=ff007f&border_color=ff007f&border_radius=0" alt="Top Languages" />
 </p>
 
 <br>
 
-<h2 align="center"> ＵＰＬＩＮＫ ＿ ＡＣＴＩＶＯ </h2>
+<h2 align="center"> ＥＮＬＡＣＥＳ ＿ ＥＸＴＥＲＮＯＳ </h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/medina-martinez-jonathan-jason-86b2602b8" target="_blank">
